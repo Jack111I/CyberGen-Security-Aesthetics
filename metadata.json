@@ -1,0 +1,5 @@
+{
+  "name": "CyberGen: Security Aesthetics",
+  "description": "A specialized generative AI tool for creating cyber-security themed wallpapers and brand logos using Google's Imagen 3 model.",
+  "requestFramePermissions": []
+}
